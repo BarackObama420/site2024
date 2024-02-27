@@ -7,5 +7,5 @@ ul {
    display: flex;
 justify-content:space-between;
 list-style-type: none;
-text-align: center;
+align-items: center;
 }
