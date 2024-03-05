@@ -26,7 +26,7 @@ justify-content: space-between;
 }
 
 .conteudo{
-    display: table;
+    display: inline-block;
 }
 
 .imagem{
